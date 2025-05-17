@@ -240,5 +240,3 @@ Rotated every 100MB, retained for 7 days.
 ## License
 
 MIT License
-
-```
